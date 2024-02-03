@@ -26,9 +26,9 @@ export const theme = {
         accent:'#B809C3',
       },
       backgroundImage: {
-        site:
-        about:  
-        services:
+        site:"url('./img/site.png')",
+        about: "url('./img/about-bg.png')",  
+        services: "url('./img/services.png')",
       }
     }
   },
